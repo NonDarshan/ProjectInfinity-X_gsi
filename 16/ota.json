@@ -1,0 +1,24 @@
+{
+  "version": "2025-12-08",
+  "date": "1765142400",
+  "gsi": "Infinity X Official | by NonDarshan",
+  "security_patch": "2025-12-01",
+  "changelog": "https://raw.githubusercontent.com/Darshan/ProjectInfinity-X_gsi/16/changelog.txt",
+  "variants": [
+    {
+      "name": "infinity_gsi_vanilla",
+      "size": "982006688",
+      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm64-ab_VANILLA-Official-20251208.img.xz"
+    },
+    {
+      "name": "infinity_gsi_gapps",
+      "size": "1477665620",
+      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm64-ab_GAPPS-Official-20251208.img.xz"
+    },
+    {
+      "name": "infinity_a64_vanilla",
+      "size": "780105616",
+      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm32_binder64-ab_VANILLA-Official-20251208.img.xz"
+    }
+  ]
+}
