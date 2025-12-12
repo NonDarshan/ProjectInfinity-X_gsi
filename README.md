@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Project Infinity-X GSI" src="https://github.com/user-attachments/assets/0eeaa094-447d-48cd-8a1f-ae064fd3c648" />
+
 # 🔰 Project Infinity X GSI  
 **Maintained by [@NonDarshan](https://github.com/NonDarshan)**  
 
