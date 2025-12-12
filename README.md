@@ -19,6 +19,11 @@ Built on **AOSP Android 16**, it merges modern aesthetics (Material You / MD3) w
 
 ---
 
+## ⬇️ Download
+
+[Vanilla](https://drive.google.com/uc?export=download&id=1R3DraIq0mxPeJpX2SdOr1k_HDiLuXqZx)
+
+---
 ## ⚙️ Key Features  
 
 - 📱 **Android 16 (U)** — latest AOSP base  
