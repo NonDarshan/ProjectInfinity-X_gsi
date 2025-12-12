@@ -1,24 +1,38 @@
 {
-  "version": "2025-12-08",
-  "date": "1765142400",
-  "gsi": "Infinity X Official | by NonDarshan",
+  "version": "3.5",
+  "android_version": "16",
+  "date": "1765584000",
+  "gsi": "Infinity X v3.5 UNOFFICIAL | by NonDarshan",
   "security_patch": "2025-12-01",
-  "changelog": "https://raw.githubusercontent.com/Darshan/ProjectInfinity-X_gsi/16/changelog.txt",
   "variants": [
     {
       "name": "infinity_gsi_vanilla",
-      "size": "982006688",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm64-ab_VANILLA-Official-20251208.img.xz"
+      "display_name": "Infinity X GSI 3.5 (Vanilla)",
+      "type": "Vanilla",
+      "size": "1555479583",
+      "version_name": "Project_Infinity-X-3.5-gsi_vanilla-13.12.2025-UNOFFICIAL",
+      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/v3.5-UNOFFICIAL/Project_Infinity-X-3.5-gsi_vanilla-13.12.2025-UNOFFICIAL.zip",
+      "notes": "Clean AOSP build without Google Apps. Recommended for MicroG or minimal setups."
     },
     {
       "name": "infinity_gsi_gapps",
-      "size": "1477665620",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm64-ab_GAPPS-Official-20251208.img.xz"
-    },
-    {
-      "name": "infinity_a64_vanilla",
-      "size": "780105616",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm32_binder64-ab_VANILLA-Official-20251208.img.xz"
+      "display_name": "Infinity X GSI 3.5 (GApps)",
+      "type": "GApps",
+      "size": "1864708078",
+      "version_name": "Project_Infinity-X-3.5-gsi_gapps-13.12.2025-GAPPS-UNOFFICIAL",
+      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/v3.5-UNOFFICIAL/Project_Infinity-X-3.5-gsi_gapps-13.12.2025-GAPPS-UNOFFICIAL.zip",
+      "notes": "Prebuilt Google Services (Play Store, GMS, SetupWizard) included. Ideal for daily use."
     }
-  ]
+  ],
+  "changelog_highlights": [
+    "December 2025 Security Patch",
+    "Fixed ro.infinity.* versioning and maintainer display",
+    "Optimized GSI build and compression system",
+    "Added OTA-ready recovery-flashable ZIPs",
+    "Maintainer: NonDarshan"
+  ],
+  "maintainer": "NonDarshan",
+  "build_type": "UNOFFICIAL",
+  "ota_ready": true,
+  "website": "https://github.com/NonDarshan/ProjectInfinity-X_gsi"
 }
