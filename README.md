@@ -1,84 +1,79 @@
-🔰 Project Infinity X GSI — Maintained by NonDarshan
+# 🔰 Project Infinity X GSI  
+**Maintained by [@NonDarshan](https://github.com/NonDarshan)**  
 
-Android 16 (U) | Custom Generic System Image (GSI)
-A refined, performance-focused, and open-source continuation of Project Infinity X,
-rebuilt and maintained by @NonDarshan, based on ProjectInfinity-X sources and PHH Treble foundations.
+Android 16 (U) | Custom Generic System Image (GSI)  
+A refined, performance-focused continuation of **Project Infinity X**, rebuilt and maintained by @NonDarshan — based on **ProjectInfinity-X sources** and **PHH Treble** foundations.  
 
-💡 Overview
+---
 
-Infinity X GSI is a clean yet feature-rich AOSP-based GSI,
-crafted for stability, simplicity, and customization.
-It brings a polished experience to Treble-compatible devices with support for
-Material You (MD3), GApps / Vanilla builds, and regular OTA updates via GitHub.
+## 💡 Overview  
 
-⚙️ Key Features
+**Infinity X GSI** delivers a clean, stable, and customizable Android experience for all Treble-compatible devices.  
+Built on **AOSP Android 16**, it merges modern aesthetics (Material You / MD3) with the performance and reliability of the **Infinity** ecosystem.  
 
-Based on Android 16 (U) AOSP
+✅ **Supports**: ARM64 / A64 / AB devices  
+🔁 **Variants**: GApps & Vanilla  
+🧩 **OTA Updates**: Direct from GitHub  
 
-Treble-Ready GSI (works on all ARM64 / A64 / AB devices)
+---
 
-Integrated Project Infinity X customizations
+## ⚙️ Key Features  
 
-Material You (Expressive Design 3) enabled
+- 📱 **Android 16 (U)** — latest AOSP base  
+- 🧱 **Treble-Ready GSI** (universal ARM64 / A64 support)  
+- 🎨 **Material You (Expressive Design 3)** enabled  
+- 🚀 **Optimized ART, SystemUI & Animation performance**  
+- 🔒 **Signed with Infinity private release keys**  
+- ☁️ **Automatic OTA updates via GitHub**  
+- 🧑‍💻 **Maintained & built by NonDarshan**
 
-Optimized ART, SystemUI, and animation performance
+---
 
-Signed with Infinity Private Keys
+## 🏗️ Sources & Credits  
 
-Official OTA updates hosted on GitHub
+| Component | Source / Maintainer | Description |
+|------------|---------------------|--------------|
+| **Base Manifest & Vendor** | [ProjectInfinity-X/manifest](https://github.com/ProjectInfinity-X/manifest) | Core Infinity manifest and vendor base |
+| **Device Tree (PHH)** | [NonDarshan/device_phh_treble](https://github.com/NonDarshan/device_phh_treble) | Fork of Doze-off’s original PHH treble tree |
+| **Treble Base Work** | [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations) | The original GSI foundation |
+| **Vendor Configs** | [ProjectInfinity-X/vendor_infinity](https://github.com/ProjectInfinity-X/vendor_infinity) | ROM configurations & branding |
+| **Private Key Template** | [ProjectInfinity-X/vendor_infinity-priv_keys-template](https://github.com/ProjectInfinity-X/vendor_infinity-priv_keys-template) | Signing infrastructure for Infinity builds |
+| **OTA Structure** | [NonDarshan/ProjectInfinity-X_gsi](https://github.com/NonDarshan/ProjectInfinity-X_gsi) | OTA JSON, changelog, and release management |
+| **Frameworks & ART** | AOSP / LineageOS upstream | Core Android components |
+| **System Overlays** | Community ROMs: Evolution X, VoltageOS, DerpFest, PA | Custom overlay references |
 
-Maintained and built by NonDarshan
+---
 
-🏗️ Sources & Credits
+## 🙏 Acknowledgements  
 
-This project was built using combined efforts from multiple open-source initiatives.
-Massive thanks to the following projects and maintainers ❤️
+Special thanks to:  
+- 💠 **@Doze-off** — for the original Infinity X GSI groundwork.  
+- 🧠 **@phhusson** — for pioneering the Treble ecosystem.  
+- 🌐 **ProjectInfinity-X Team** — for open-source vendor & manifest.  
+- ⚙️ **Google AOSP** — for the Android foundation itself.  
+- ❤️ The **Custom ROM & GSI community** — for keeping Treble alive.
 
-Component	Source / Maintainer	Notes
-Base Manifest & Vendor Tree	ProjectInfinity-X/manifest
-	Official AOSP/Infinity manifest base
-Device Tree (PHH)	Doze-off/device_phh_treble
- (original) → forked & maintained by NonDarshan/device_phh_treble
-	Core GSI device definitions
-Treble Base Work	phhusson/treble_experimentations
-	The original GSI framework inspiration
-Infinity Vendor Configs	ProjectInfinity-X/vendor_infinity
-	ROM base configurations and branding
-Private Key Template	ProjectInfinity-X/vendor_infinity-priv_keys-template
-	Signing infrastructure for Infinity builds
-Infinity GSI OTA Structure	Doze-off/ProjectInfinity-X_gsi
- (original) → rebuilt & maintained by NonDarshan/ProjectInfinity-X_gsi
-	OTA JSON and changelog structure
-Android Frameworks & ART	AOSP / LineageOS upstream	Core Android components
-System Overlays	Derived from various open-source ROMs (Evolution X, VoltageOS, DerpFest, Paranoid Android)	For overlay references and maintainership tags
-🙏 Acknowledgements
+---
 
-Special thanks to:
+## 👤 Maintainer  
 
-@Doze-off — for the original Infinity X GSI groundwork and treble tree.
+**NonDarshan**  
+📦 GitHub: [github.com/NonDarshan](https://github.com/NonDarshan)  
+🛰️ Telegram: _CUSTOM GSI(https://t.me/LinegionXar)_  
+📱 Devices: All Treble-compatible GSIs (ARM64, A64, AB)
 
-@phhusson — for his continuous contributions to the GSI ecosystem.
+---
 
-@ProjectInfinity-X team — for the open-source manifest and vendor support.
+## 🧱 Build Info  
 
-@Google AOSP — for providing the foundation of everything we build on.
+| Property | Value |
+|-----------|-------|
+| **Build Type** | OFFICIAL |
+| **Android Version** | 16 (U) |
+| **Security Patch** | Monthly (AOSP-based) |
+| **Update Channel** | GitHub OTA (auto via `ro.system.ota.json_url`) |
 
-Everyone in the custom ROM & GSI community for maintaining Treble relevance even today.
+---
 
-👤 Maintainer
+> _Infinity X GSI — performance, design, and simplicity united under open-source Android._
 
-NonDarshan
-📦 GitHub: github.com/NonDarshan
-
-🛰️ Telegram (optional if you want to add later)
-🛠️ Devices: Treble GSIs (ARM64, A64, AB)
-
-🧱 Build Info
-
-Build Type: OFFICIAL
-
-Android Version: 16 (U)
-
-Security Patch: Monthly (latest from AOSP)
-
-Update Channel: GitHub OTA (auto-check via ro.system.ota.json_url)
