@@ -8,12 +8,12 @@
     {
       "name": "infinity_gsi_vanilla",
       "size": "982006688",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm64-ab_VANILLA-Official-20251208.img.xz"
+      "url": "https://drive.google.com/uc?export=download&id=1R3DraIq0mxPeJpX2SdOr1k_HDiLuXqZx"
     },
     {
       "name": "infinity_gsi_gapps",
       "size": "1477665620",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/2025-12-08/Infinity-X-3.5_GSI_treble_arm64-ab_GAPPS-Official-20251208.img.xz"
+      "url": ""
     }
   ]
 }
