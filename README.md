@@ -58,7 +58,7 @@ Special thanks to:
 
 **NonDarshan**  
 📦 GitHub: [github.com/NonDarshan](https://github.com/NonDarshan)  
-🛰️ Telegram: _CUSTOM GSI(https://t.me/LinegionXar)_  
+🛰️ Telegram: _[CUSTOM GSI] (https://t.me/LinegionXar)_  
 📱 Devices: All Treble-compatible GSIs (ARM64, A64, AB)
 
 ---
