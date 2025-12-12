@@ -22,7 +22,6 @@ Built on **AOSP Android 16**, it merges modern aesthetics (Material You / MD3) w
 - 📱 **Android 16 (U)** — latest AOSP base  
 - 🧱 **Treble-Ready GSI** (universal ARM64 / A64 support)  
 - 🎨 **Material You (Expressive Design 3)** enabled  
-- 🚀 **Optimized ART, SystemUI & Animation performance**  
 - 🔒 **Signed with Infinity private release keys**  
 - ☁️ **Automatic OTA updates via GitHub**  
 - 🧑‍💻 **Maintained & built by NonDarshan**
