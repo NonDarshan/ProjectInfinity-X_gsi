@@ -72,7 +72,7 @@ Special thanks to:
 
 | Property | Value |
 |-----------|-------|
-| **Build Type** | OFFICIAL |
+| **Build Type** | UNOFFICIAL |
 | **Android Version** | 16 (U) |
 | **Security Patch** | Monthly (AOSP-based) |
 | **Update Channel** | GitHub OTA (auto via `ro.system.ota.json_url`) |
