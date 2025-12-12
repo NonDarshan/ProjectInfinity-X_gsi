@@ -1,4 +1,4 @@
-Infinity X 3.5 | Official | Dec 12, 2025
+Infinity X 3.5 | UNOfficial | Dec 12, 2025
 
 - Synced with December 2025 Security Patch
 - Improved SystemUI performance and responsiveness
