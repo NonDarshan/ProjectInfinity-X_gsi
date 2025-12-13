@@ -11,7 +11,7 @@
       "type": "Vanilla",
       "size": "1555479583",
       "version_name": "Project_Infinity-X-3.5-gsi_vanilla-13.12.2025-UNOFFICIAL",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/v3.5-UNOFFICIAL/Project_Infinity-X-3.5-gsi_vanilla-13.12.2025-UNOFFICIAL.zip",
+      "url": "https://master.dl.sourceforge.net/project/projectinfinity-x-unofficial/3.5/Project_Infinity-X-3.5-gsi_vanilla-13.12.2025-UNOFFICIAL.zip",
       "notes": "Clean AOSP build without Google Apps. Recommended for MicroG or minimal setups."
     },
     {
@@ -20,7 +20,7 @@
       "type": "GApps",
       "size": "1864708078",
       "version_name": "Project_Infinity-X-3.5-gsi_gapps-13.12.2025-GAPPS-UNOFFICIAL",
-      "url": "https://github.com/NonDarshan/ProjectInfinity-X_gsi/releases/download/v3.5-UNOFFICIAL/Project_Infinity-X-3.5-gsi_gapps-13.12.2025-GAPPS-UNOFFICIAL.zip",
+      "url": "https://master.dl.sourceforge.net/project/projectinfinity-x-unofficial/3.5/Project_Infinity-X-3.5-gsi_gapps-13.12.2025-GAPPS-UNOFFICIAL.zip",
       "notes": "Prebuilt Google Services (Play Store, GMS, SetupWizard) included. Ideal for daily use."
     }
   ],
