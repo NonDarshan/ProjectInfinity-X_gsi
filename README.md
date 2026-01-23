@@ -74,7 +74,7 @@ Special thanks to:
 |-----------|-------|
 | **Build Type** | UNOFFICIAL |
 | **Android Version** | 16 (U) |
-| **Security Patch** | Monthly (AOSP-based) |
+| **Security Patch** | December |
 | **Update Channel** | GitHub OTA (auto via `ro.system.ota.json_url`) |
 
 ---
