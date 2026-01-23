@@ -75,7 +75,7 @@ Special thanks to:
 | **Build Type** | UNOFFICIAL |
 | **Android Version** | 16 (U) |
 | **Security Patch** | December 2025 |
-| **Update Channel** | GitHub OTA (auto via `ro.system.ota.json_url`) |
+| **Update Channel** | OTA Support Ended|
 
 ---
 
